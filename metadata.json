@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 신상품마케팅 오우진 포트폴리오",
+  "description": "경영, 지식재산, AI를 융합하여 트렌드를 기획하는 오우진의 싱글 페이지 포트폴리오 웹사이트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
